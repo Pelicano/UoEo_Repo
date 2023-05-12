@@ -1,0 +1,9 @@
+2023-03-14 21:20:41,408 - WARNING - Threat detected: Spoofing - User input includes non-alphanumeric characters
+2023-03-14 21:20:41,408 - WARNING - Threat detected: Tampering - Request data is not empty
+2023-03-14 21:20:41,408 - WARNING - User alice failed authentication
+2023-03-14 21:20:41,408 - WARNING - Threat detected: Repudiation - Response data is not None
+2023-03-14 21:20:41,408 - WARNING - Threat detected: Information Disclosure - Response data includes password
+2023-03-14 21:20:41,408 - WARNING - Threat detected: Information Disclosure - Response data includes password hash
+2023-03-14 21:20:41,408 - WARNING - Threat detected: Elevation of Privilege - User has admin role
+2023-03-14 21:20:41,408 - WARNING - User admin failed authentication
+2023-03-14 21:20:41,408 - WARNING - User guest failed authentication
